@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "moduloatv4": "file:../moduloatv4"
+  }
+}
